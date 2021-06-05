@@ -1,0 +1,75 @@
+.top-nav {
+    text-align: right;
+    color: greenyellow;
+    padding-bottom: 0%;
+    
+}
+body{
+    background-image: url("pic55.gif");
+    background-size: 100%;
+
+}
+.About_Event{
+
+    width: 100%;
+    float: left;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.validation {
+ color: red;
+}
+
+.Event{
+    width: 100%;
+    float: left;
+}
+#Hidden{
+    color:red;
+    text-align: center;
+    padding-left: 10px;
+    font-size: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+#validation{
+    padding-left: 10px;
+    margin-left: 620px;
+    margin-right: 400px;
+    margin-top: 40px;
+    height: 50px;
+    color: brown;
+}
+
+h2 {
+    text-align: center;
+    color:greenyellow
+    
+}
+p{
+text-align: justify;
+color: lightsteelblue;
+}
+
+.cost{
+    color: lightsteelblue;
+    text-align: left;
+}
+
+.Host{
+    float: left;
+    width: 33.33%;
+    padding-bottom: 100px;
+    padding-top: 100px
+}
+a:link {
+    color: whitesmoke;
+}
+
+span{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(53, 48, 128, 0.582);
+    
+}
